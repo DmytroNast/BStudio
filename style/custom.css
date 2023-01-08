@@ -76,16 +76,7 @@
     background: #06b9eb;
 } 
 
-/* .header__conteiner {
-    width: 100%;
-    max-width: 1400px;
-    position: relative;
-}
 
-.header {
-    background: white;
-    height: 105px;
-}
 
 .conteiner {
     width: 100%;
@@ -93,19 +84,116 @@
     position: relative;
 }
 
-.row {
-    margin-right: 0;
-    margin-left: 0;
+.conteiner1_1 {
+    margin-left: 15px;
+    width: 300px;
+}
+
+.conteiner1 h2 {
+    height: 23px;
+    left: 6.1%;
+    right: 41.67%;
+    top: -0.5px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 22px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #5C8692;
+    margin-top: 77px;
+    width: 100%;
+    min-width: 290px;
+}
+
+.conteiner1 h1 {
+    height: 215px;
+    left: 0%;
+    right: 33.11%;
+    top: 27.5px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 0.66px;
+    color: #141414;
+    width: 100%;
+    min-width: 290px;
+    margin-bottom: -70px;
+}
+
+.conteiner1 h3 {
+    height: 92px;
+    left: 0%;
+    right: 18.41%;
+    top: 261.5px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+    color: #555555;
+    width: 100%;
+    min-width: 290px;
+    margin-bottom: 25px;
+}
+
+.conteiner1 button {
+    box-sizing: border-box;
+    width: 238px;
+    height: 57px;
+    background: #5C8692;
+    border: 2px solid #5C8692;
+    border-radius: 0px;
+    width: 100%;
+    min-width: 290px;
+}
+
+.conteiner1 button:hover {
+    background: #06b9eb;
+}
+
+.conteiner1 a {
+    width: 174px;
+    height: 20px;
+    left: calc(50% - 174px/2);
+    top: 18px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 1.56px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.conteiner1_pics {
+    margin-top: 30px;
+    margin-left: 15px;
+    width: 300px;
+}
+
+.conteiner1_pic0 {
+    z-index: 1;
+}
+
+.conteiner1_pic0 img {
+    width: 100%;
+    min-width: 290px;
+}
+
+.conteiner1_pic1 {
+    z-index: 5;
+}
+
+.conteiner1_pic1 img {
+    width: 100%;
+    min-width: 290px;
     position: relative;
-    top: 35px;
+    top: -300px;
 }
 
-.header__logo {
-    display: flex;
-    justify-content:flex-start;
-    
-}
-
-
-
-*/
