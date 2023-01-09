@@ -355,3 +355,39 @@
     position: relative;
     top: -300px;
 }
+
+.conteiner4 h3 {
+    width: 127px;
+    height: 23px;
+    left: calc(50% - 127px/2 + 0.5px);
+    top: -0.88px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #5C8692;
+    width: 100%;
+    margin-top: 150px;
+    
+}
+
+.conteiner4 h2 {
+    width: 580px;
+    height: 59px;
+    left: calc(50% - 580px/2);
+    top: 26.12px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.45px;
+    color: #141414;
+    width: 100%;
+    height: 223px;
+}
