@@ -210,6 +210,11 @@
     min-width: 290px;
 }
 
+.conteiner2 figure {
+    width: 100%;
+    min-width: 290px;
+}
+
 .conteiner2 h2 {
     height: 37px;
     left: 0%;
@@ -242,7 +247,7 @@
     min-width: 290px;
 }
 
-.figure button {
+.conteiner2 button {
     box-sizing: border-box;
     height: 57px;
     width: 157px;
@@ -255,12 +260,12 @@
     min-width: 290px;
 }
 
-.figure button:hover {
+.conteiner2 button:hover {
     background: #88dff7;
 }
 
 
-.figure a {
+.conteiner2 a {
     width: 93px;
     height: 20px;
     left: calc(50% - 93px/2);
