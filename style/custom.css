@@ -529,3 +529,221 @@
     margin-top: 5px;
     margin-left: 5px;
 }
+
+.conteiner6 {
+    width: 100%;
+    min-width: 300px;
+}
+
+.conteiner6 h3 {
+    left: calc(50% - 217px/2 + 0.5px);
+    top: -0.88px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #5C8692;
+    margin-top: 60px;
+}
+
+.conteiner6 h2 {
+    left: calc(50% - 496px/2);
+    top: 26.12px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 58px;
+    text-align: center;
+    letter-spacing: 0.45px;
+    color: #141414;
+}
+
+.conteiner6 h4 {
+    left: -0.09%;
+    right: 11.96%;
+    top: 108.12px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 36px;
+    letter-spacing: 0.312px;
+    color: #141414;
+    margin-top: 20px;
+}
+
+.conteiner6 h5 {
+    left: 0%;
+    right: 7.59%;
+    top: 156.12px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #555555;
+    margin-top: 20px;
+}
+
+.conteiner6 img {
+    margin-top: 80px;
+}
+
+
+.conteiner7 {
+    width: 100%;
+    min-width: 300px;
+    background: #EBF3F5;
+}
+
+.conteiner7 h3 {
+    height: 23px;
+    left: 0%;
+    right: 75.65%;
+    top: 0px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #5C8692;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.conteiner7 h2 {
+    height: 59px;
+    left: 0%;
+    right: 22.61%;
+    top: 26px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 45px;
+    letter-spacing: 0.45px;
+    color: #141414;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.conteiner7 h4 {
+    height: 62px;
+    left: 0%;
+    right: 5.91%;
+    top: 219px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    color: #555555;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.conteiner7__text2 {
+    width: 100%;
+    min-width: 250px;
+}
+
+.conteiner7 h5 {
+    height: 21px;
+    left: 0%;
+    right: 65.92%;
+    top: -0.17px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #141414;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.conteiner7 a {
+    height: 23px;
+    left: 0%;
+    right: -0.1%;
+    top: 19.83px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    letter-spacing: 1.2px;
+    color: #141414;
+    margin-left: 20px;
+}
+
+.conteiner7__flx2 {
+    width: 100%;
+    min-width: 250px;
+    background-color: #1E2C30;
+    margin-top: 50px;
+}
+
+.conteiner7__flx2 h2 {
+    width: 109px;
+    height: 23px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: auto;
+}
+
+.conteiner7__flx2 h3 {
+    width: 144px;
+    height: 78px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 65px;
+    line-height: 85px;
+    text-align: center;
+    letter-spacing: 0.78px;
+    color: #FFFFFF;
+    margin: auto;
+}
+
+.conteiner7__flx2 h4 {
+    width: 95px;
+    height: 27px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 1.8px;
+    color: #FFFFFF;
+    margin: auto;
+}
+
+.conteiner7__form {
+    width: 100%;
+    min-width: 250px;
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.conteiner7__form button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    min-width: 250px;
+}
